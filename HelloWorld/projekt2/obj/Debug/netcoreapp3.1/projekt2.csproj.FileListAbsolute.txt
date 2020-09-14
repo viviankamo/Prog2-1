@@ -1,0 +1,13 @@
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.csprojAssemblyReference.cache
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.AssemblyInfoInputs.cache
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.AssemblyInfo.cs
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\bin\Debug\netcoreapp3.1\projekt2.exe
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\bin\Debug\netcoreapp3.1\projekt2.deps.json
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\bin\Debug\netcoreapp3.1\projekt2.runtimeconfig.json
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\bin\Debug\netcoreapp3.1\projekt2.runtimeconfig.dev.json
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\bin\Debug\netcoreapp3.1\projekt2.dll
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\bin\Debug\netcoreapp3.1\projekt2.pdb
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.dll
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.pdb
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\HelloWorld\projekt2\obj\Debug\netcoreapp3.1\projekt2.genruntimeconfig.cache
