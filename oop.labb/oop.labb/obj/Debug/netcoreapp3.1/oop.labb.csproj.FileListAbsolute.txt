@@ -1,0 +1,13 @@
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\bin\Debug\netcoreapp3.1\oop.labb.exe
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\bin\Debug\netcoreapp3.1\oop.labb.deps.json
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\bin\Debug\netcoreapp3.1\oop.labb.runtimeconfig.json
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\bin\Debug\netcoreapp3.1\oop.labb.runtimeconfig.dev.json
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\bin\Debug\netcoreapp3.1\oop.labb.dll
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\bin\Debug\netcoreapp3.1\oop.labb.pdb
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.csprojAssemblyReference.cache
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.AssemblyInfoInputs.cache
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.AssemblyInfo.cs
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.csproj.CoreCompileInputs.cache
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.dll
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.pdb
+C:\Users\vivian.kamo\Documents\GitHub\Prog2-1\oop.labb\oop.labb\obj\Debug\netcoreapp3.1\oop.labb.genruntimeconfig.cache

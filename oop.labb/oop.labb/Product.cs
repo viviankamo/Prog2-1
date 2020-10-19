@@ -4,8 +4,8 @@ using System.Text;
 
 namespace oop.labb
 {
-    class Kund
+    class Product
     {
-        public List<Produkt> kundkorg = new List<Produkt>();
+        public int _produktNumber;
     }
 }

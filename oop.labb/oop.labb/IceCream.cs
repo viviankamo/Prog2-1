@@ -4,8 +4,8 @@ using System.Text;
 
 namespace oop.labb
 {
-    class Produkt
+    class IceCream : Product
     {
-        public string produktTyp;
+        public string flavour { get; set; }
     }
 }
